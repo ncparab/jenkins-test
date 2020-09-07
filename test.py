@@ -1,1 +1,1 @@
-print("file get updated")
+print("file updated")
