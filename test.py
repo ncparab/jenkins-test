@@ -1,1 +1,1 @@
-print("File is updated"
+print("Removed syntax error")
